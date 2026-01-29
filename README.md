@@ -76,7 +76,7 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 
 ## Curriculum
 
-- [Introduction to Data Science](#introduction-to-data-science)
+- [Introduction to Data Science](#introduction-to-data-science) ⭕️
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Databases](#databases)
@@ -98,7 +98,7 @@ _Students who already know basic programming in any language can skip this first
 
 [Introduction to programming](coursepages/intro-programming/README.md)
 
-[Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md)
+[Introduction to Computer Science and Programming Using Python](coursepages/intro-cs/README.md) ⭕️
 
 [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 
